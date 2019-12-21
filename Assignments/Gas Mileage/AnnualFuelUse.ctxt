@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AnnualFuelUse()
+comment1.params=days\ startMiles\ endMiles\ gallons\ price
+comment1.target=AnnualFuelUse(int,\ int,\ int,\ double,\ double)
+comment2.params=x
+comment2.target=void\ printOutput(int)
+comment3.params=
+comment3.target=int\ calcDistance()
+comment4.params=
+comment4.target=double\ calcMPG()
+comment5.params=
+comment5.target=double\ totalCost()
+numComments=6

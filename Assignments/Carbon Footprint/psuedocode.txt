@@ -1,0 +1,7 @@
+send inputs to a CarbonFootprint object
+calculate CO2 from gasoline
+calculate CO2 from electricty
+calculate CO2 reduction from recycling
+calculate CO2 reduction from light bulbs
+sum all the stuff
+print in user friendly format

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=sa\ sb\ sc
+comment0.target=Triangle(double,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ triangle\r\n
+comment1.params=
+comment1.target=double\ getSideA()
+comment2.params=
+comment2.target=double\ getSideB()
+comment3.params=
+comment3.target=double\ getSideC()
+numComments=4

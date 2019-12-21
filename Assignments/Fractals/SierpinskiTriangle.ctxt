@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x1\ y1\ x2\ y2\ x3\ y3\ canvas
+comment0.target=void\ drawSierpinskiTriangle(int,\ int,\ int,\ int,\ int,\ int,\ java.awt.Graphics)
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+numComments=2

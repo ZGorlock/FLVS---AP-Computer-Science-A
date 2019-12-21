@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dispenser()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Dispenser\r\n
+comment1.params=n\ c
+comment1.target=Dispenser(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dispenser\r\n
+comment2.params=
+comment2.target=int\ getCount()
+comment3.params=
+comment3.target=int\ getProductCost()
+comment4.params=
+comment4.target=void\ makeSale()
+numComments=5

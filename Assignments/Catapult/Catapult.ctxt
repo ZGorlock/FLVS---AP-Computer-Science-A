@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Catapult()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ type\ Catapult.\r\n
+comment1.params=angle\ speed
+comment1.target=Catapult(int,\ int)
+comment1.text=\r\n\ A\ constructor\ method\ that\ initiates\ instance\ variables\ for\ the\ Catapult\ object.\r\n\ \r\n\ @param\ angle\ angle\ at\ which\ the\ projectile\ is\ being\ launched.\r\n\ @param\ speed\ speed\ at\ which\ the\ projectile\ is\ being\ launched.\r\n
+comment2.params=
+comment2.target=void\ calcProjectile()
+comment2.text=\r\n\ Mutator\ method\ to\ calculate\ the\ distance\ in\ feet\ travelled.\r\n
+comment3.params=mph
+comment3.target=double\ mphToMs(int)
+comment3.text=\r\n\ Mutator\ method\ for\ converting\ miles\ per\ hour\ to\ meters\ per\ second.\r\n\ \r\n\ @param\ mph\ the\ speed\ in\ miles\ per\ hour.\r\n\ \r\n\ @return\ speed\ in\ meters\ per\ second.\r\n
+comment4.params=
+comment4.target=double\ getDistance()
+comment4.text=\r\n\ Getter\ method\ that\ returns\ the\ myDistance\ private\ variable.\r\n\ \r\n\ @return\ the\ distance\ the\ projectile\ object\ travelled\ in\ feet.\r\n
+numComments=5

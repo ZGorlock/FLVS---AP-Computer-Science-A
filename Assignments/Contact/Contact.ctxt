@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=n\ r\ b\ p\ e
+comment0.target=Contact(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Contact\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ getRelation()
+comment3.params=
+comment3.target=java.lang.String\ getBday()
+comment4.params=
+comment4.target=java.lang.String\ getPhone()
+comment5.params=
+comment5.target=java.lang.String\ getEmail()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ An\ overritten\ toString()\ method\r\n\ \r\n\ @return\ <name>\ <relation>\ <bday>\ <phone>\ <email>\r\n
+numComments=7

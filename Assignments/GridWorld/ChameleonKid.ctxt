@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ getActors()
+comment1.params=directions
+comment1.target=java.util.ArrayList\ getLocationsInDirections(int[])
+comment1.text=\r\n\ Finds\ the\ valid\ adjacent\ locations\ of\ this\ critter\ in\ different\r\n\ directions.\r\n\ @param\ directions\ -\ an\ array\ of\ directions\ (which\ are\ relative\ to\ the\r\n\ current\ direction)\r\n\ @return\ a\ set\ of\ valid\ locations\ that\ are\ neighbors\ of\ the\ current\r\n\ location\ in\ the\ given\ directions\r\n
+numComments=2

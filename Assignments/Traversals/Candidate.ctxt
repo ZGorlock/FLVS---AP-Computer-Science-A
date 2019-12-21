@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n\ v
+comment0.target=Candidate(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Candidate\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getNumVotes()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Overwritten\ toString()\ method\r\n\ \r\n\ @return\ <name>\ recieved\ <numVotes>\ votes.\r\n
+numComments=4

@@ -1,0 +1,5 @@
+This image was created using recursion because you kept making smaller boxes inside of other boxes, and they get smaller and smaller but all pretty much the same.
+
+To create a program that would produce Mondarian art, you would have a program choose random intervals and draw vertical and horizontal lines that wouldnt intersect and then color them randomly.
+
+I think that the programmer should get the copyright credit for a piece of computer art. Just like the paintbrush doesnt get the credit for a work of art in real life, the software and the CPU are just the tools to create the art.

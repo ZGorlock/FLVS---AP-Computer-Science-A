@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=t\ y\ s
+comment0.target=Movie4(java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Movie4\r\n
+comment1.params=
+comment1.target=java.lang.String\ getStudio()
+comment1.text=\r\n\ Returns\ the\ studio\r\n\ \r\n\ @return\ studio\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\r\n\ Returns\ the\ title\r\n\ \r\n\ @return\ title\r\n
+comment3.params=
+comment3.target=int\ getYear()
+comment3.text=\r\n\ Returns\ the\ year\r\n\ \r\n\ @return\ year\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Overriden\ toString()\ method\r\n\ \r\n\ @return\ <title>,\ <year>,\ <studio>\r\n
+numComments=5

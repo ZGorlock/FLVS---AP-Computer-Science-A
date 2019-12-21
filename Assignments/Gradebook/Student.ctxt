@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=n\ q1\ q2\ q3\ q4\ q5
+comment0.target=Student(java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=n
+comment2.target=void\ setName(java.lang.String)
+comment3.params=q
+comment3.target=int\ getQuiz(int)
+comment4.params=q\ qz
+comment4.target=void\ setQuiz(int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Overwritten\ toString()\ method\r\n\ \r\n\ @return\ <name>\ <qz1>\ <qz2>\ <qz3>\ <qz4>\ <qz5>\r\n
+numComments=6

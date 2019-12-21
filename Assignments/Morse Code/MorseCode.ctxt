@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ convertMessage()
+comment0.text=\r\n\ converts\ message\ to\ morse\ code\r\n
+comment1.params=
+comment1.target=void\ enterMessage()
+comment1.text=\r\n\ recieves\ a\ message\ from\ the\ user\r\n
+comment2.params=
+comment2.target=void\ printMessage()
+comment2.text=\r\n\ prints\ morse\ code\r\n
+comment3.params=
+comment3.target=void\ readFile()
+comment3.text=\r\n\ reads\ the\ morse\ code\ file\r\n
+numComments=4

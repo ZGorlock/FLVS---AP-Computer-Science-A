@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment0.text=\r\n\ Main\ method\ of\ InventoryDemo\r\n
+comment1.params=name\ inventory
+comment1.target=void\ takeInventory(java.lang.String,\ java.util.List)
+comment2.params=a\ b
+comment2.target=void\ compare(Tool,\ Tool)
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AppaloosaPriorityQueue()
+comment1.params=
+comment1.target=int\ size()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=msg
+comment3.target=void\ add(Message)
+comment4.params=
+comment4.target=Message\ remove()
+numComments=5

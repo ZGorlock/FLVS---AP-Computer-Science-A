@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CO2FootprintV1()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ type\ CO2FootprintV1\r\n
+comment1.params=gals
+comment1.target=CO2FootprintV1(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ type\ CO2FootprintV1\r\n\ \r\n\ @param\ gals\ number\ of\ gallons\ used\r\n
+comment2.params=
+comment2.target=double\ convertTonsCO2toPoundsCO2()
+comment2.text=\r\n\ Convert\ pounds\ of\ CO2\ emitted\ from\ tons\ of\ CO2\ emitted\r\n\ \r\n\ @return\ the\ pounds\ of\ CO2\ emitted\r\n
+comment3.params=
+comment3.target=double\ calcTonsCO2()
+comment3.text=\r\n\ Calculates\ tons\ of\ CO2\ emitted\ from\ gallons\ of\ fuel\ used\r\n\ \r\n\ @return\ the\ tons\ of\ CO2\ emitted\r\n
+numComments=4

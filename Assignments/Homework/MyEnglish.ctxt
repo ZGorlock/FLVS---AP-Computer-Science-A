@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyEnglish()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyEnglish\r\n
+comment1.params=p
+comment1.target=void\ createAssignment(int)
+comment1.text=\r\n\ Creates\ an\ english\ assignment\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

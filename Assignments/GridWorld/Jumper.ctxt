@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Jumper()
+comment0.text=\r\n\ Constructs\ a\ red\ jumper.\r\n
+comment1.params=jumperColor
+comment1.target=Jumper(java.awt.Color)
+comment1.text=\r\n\ Constructs\ a\ jumper\ of\ a\ given\ color.\r\n\ @param\ jumperColor\ the\ color\ for\ this\ jumper\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Moves\ the\ jumper\ forward\r\n
+comment3.params=
+comment3.target=boolean\ canMove()
+comment3.text=\r\n\ Tests\ whether\ this\ juymper\ can\ move\ forward\ into\ a\ location\ that\ is\ empty\r\n\ @return\ true\ if\ this\ jumper\ can\ move\r\n
+numComments=4

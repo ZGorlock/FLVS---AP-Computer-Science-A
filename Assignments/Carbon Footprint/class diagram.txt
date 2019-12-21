@@ -1,0 +1,42 @@
+	[CO2FootprintTester]
++main():void
+
+	[CO2Footprint]
+-myGallonsUsed:double
+-myBill:ArrayList<Double>
+-myPrice:ArrayList<Double>
+-myNumPeople:int
+-myCans:boolean
+-myGlass:boolean
+-myPaper:boolean
+-myPlastic:boolean
+-myBulbs:int
+-myWasteCO2:double
+-myElectricityCO2:double
+-myGasCO2:double
+-myBulbReduction:double
+-myWasteReduction:double
+-myAvgBill:double
+-myAvgPrice:double
+-myGross:double
+-myReduction:double
+-myNet:double
++CO2Footprint():constructor
++CO2Footprint(gals:double, monthlyBill:ArrayList<Double>, monthlyPrice:ArrayList<Double>, numPeople:int, wastes:boolean[], bulbs:int):constructor
++calcAverageBill():void
++calcAveragePrice():void
++calcBulbReduction():void
++calcElectricityCO2():void
++calcGross():void
++calcGasCO2():void
++calcNet():void
++calcReduction():void
++calcWasteCO2():void
++calcWasteReduction():void
++getBulbReduction():double
++getElectricityCO2():double
++getGasCO2():double
++getGross():double
++getNet():double
++getWasteCO2():double
++getWasteReduction():double

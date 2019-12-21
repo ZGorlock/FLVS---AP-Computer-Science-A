@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ decrypt()
+comment0.text=\r\n\ decrypts\ a\ message\r\n
+comment1.params=
+comment1.target=void\ readFile()
+comment1.text=\r\n\ reads\ the\ encrypted\ code\ from\ a\ file\r\n
+numComments=2

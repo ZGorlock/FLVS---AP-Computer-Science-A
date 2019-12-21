@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ fibNum(int)
+comment0.text=\r\n\ calulated\ the\ num-th\ Fibonacci\ number\r\n\ \r\n\ @param\ n\ the\ number\ from\ the\ Fibonacci\ sequence\ being\ found\r\n\ \r\n\ @return\ the\ Fibonacci\ number\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ the\ main\ method\ for\ the\ Fibonacci\ class\r\n
+numComments=2

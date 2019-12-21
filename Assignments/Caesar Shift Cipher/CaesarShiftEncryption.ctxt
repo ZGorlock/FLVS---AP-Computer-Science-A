@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ createAlphabet()
+comment0.text=\r\n\ creates\ the\ alphabet\ based\ on\ the\ shift\ key\r\n
+comment1.params=
+comment1.target=void\ encrypt()
+comment1.text=\r\n\ encrypts\ a\ message\r\n
+comment2.params=
+comment2.target=void\ enterKey()
+comment2.text=\r\n\ Allows\ the\ user\ to\ enter\ a\ shift\ key\r\n
+comment3.params=
+comment3.target=void\ printAlphabet()
+comment3.text=\r\n\ Prints\ the\ cryptalphabet\ to\ the\ screen\r\n
+numComments=4

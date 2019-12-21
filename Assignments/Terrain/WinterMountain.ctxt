@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=l\ w\ m\ t
+comment0.target=WinterMountain(int,\ int,\ int,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ WinterMountain\r\n
+comment1.params=
+comment1.target=double\ getTemp()
+comment1.text=\r\n\ Getter\ method\ for\ temperature.\r\n\ \r\n\ @return\ number\ temperature\r\n
+numComments=2

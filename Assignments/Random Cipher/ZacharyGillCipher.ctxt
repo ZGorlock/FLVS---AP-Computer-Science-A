@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ encrypt()
+comment0.text=\r\n\ encrypts\ a\ message\r\n
+comment1.params=
+comment1.target=void\ generateRandomCipher()
+comment1.text=\r\n\ creates\ random\ cipher\r\n
+comment2.params=
+comment2.target=void\ writeToFile()
+comment2.text=\r\n\ writes\ the\ encrypted\ code\ to\ a\ file\r\n
+numComments=3

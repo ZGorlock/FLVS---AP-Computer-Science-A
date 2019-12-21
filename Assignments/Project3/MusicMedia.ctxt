@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=title\ artist\ sku
+comment0.target=MusicMedia(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getArtist()
+comment2.params=
+comment2.target=java.lang.String\ getMediaType()
+comment3.params=
+comment3.target=java.lang.String\ getSKU()
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=size
+comment6.target=java.util.ArrayList\ MakeMusicCatalog(int)
+comment7.params=catalog\ sku
+comment7.target=java.lang.String\ lookupMedia(java.util.ArrayList,\ java.lang.String)
+comment8.params=catalog\ warehouse
+comment8.target=java.lang.String\ detailedInventory(java.util.ArrayList,\ java.util.ArrayList)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

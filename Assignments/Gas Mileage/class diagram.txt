@@ -1,0 +1,15 @@
+		CarV3
+	<< In main() method >>
++ int distance1
++ double mpg1
+
+	  << Constructor >>
++ CarV3()
+  + String myCar
+  + int myStartMiles
+  + int myEndMiles
+  + double myGallons
+
+	    << Methods >>
++ int calcDistance(int sMiles, int eMiles)
++ double calcMPG(int dist, double gals)

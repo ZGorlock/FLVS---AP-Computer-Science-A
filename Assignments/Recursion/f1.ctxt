@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=f1()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ f1\r\n
+comment1.params=a
+comment1.target=int\ f(int)
+comment1.text=\r\n\ Recursive\ mutator\ method\ to\ solve\ the\ problem\r\n\ \r\n\ @param\ a\ the\ value\ we\ are\ solving\ the\ function\ for\r\n\ \r\n\ @return\ the\ solution\ to\ the\ function\r\n
+numComments=2

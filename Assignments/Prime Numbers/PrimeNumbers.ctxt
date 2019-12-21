@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=max
+comment0.target=PrimeNumbers(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PrimeNumbers\r\n\ \r\n\ @param\ \ max\ \ the\ max\ number\ to\ look\ for\ prime\ numbers\r\n
+comment1.params=
+comment1.target=void\ findPrimes()
+comment1.text=\r\n\ Checks\ for\ prime\ numbers\ between\ 1\ and\ max\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getPrimes()
+comment2.text=\r\n\ Returns\ the\ primes\ ArrayList\r\n\ \r\n\ @return\ primes\ ArrayList\ of\ prime\ numbers\r\n
+numComments=3

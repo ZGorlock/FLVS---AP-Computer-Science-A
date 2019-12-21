@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CashRegister()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ CashRegister\r\n
+comment1.params=coh
+comment1.target=CashRegister(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CashRegister\r\n
+comment2.params=a
+comment2.target=void\ acceptAmount(int)
+numComments=3

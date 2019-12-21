@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CO2FromElectricity()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ type\ CO2FromElectricity\r\n
+comment1.params=monthlyBill
+comment1.target=double\ calcAverageBill(java.util.ArrayList)
+comment1.text=\r\n\ A\ mutator\ method\ that\ calculates\ the\ average\ annual\ electricity\ bill.\r\n\ \r\n\ @param\ monthlyBill\ an\ Arraylist\ containing\ the\ monthly\ bills\ for\ home\ electricity\ use.\r\n\ \r\n\ @return\ The\ average\ monthly\ electricity\ bill.\r\n
+comment2.params=monthlyPrice
+comment2.target=double\ calcAveragePrice(java.util.ArrayList)
+comment2.text=\r\n\ A\ mutator\ method\ that\ calculates\ the\ average\ annual\ price\ of\ electricity.\r\n\ \r\n\ @param\ monthlyPrice\ an\ Arraylist\ containing\ the\ monthly\ price\ of\ electricity\ per\ kilowatthour.\r\n\ \r\n\ @return\ The\ average\ monthly\ price\ of\ electricity.\r\n
+comment3.params=avgBill\ avgPrice
+comment3.target=double\ calcElectricityCO2(double,\ double)
+comment3.text=\r\n\ A\ mutator\ method\ that\ calculates\ the\ annual\ home\ CO2\ emission\ from\ electricity.\r\n\ \r\n\ @param\ avgBill\ The\ average\ monthly\ home\ electricity\ bill.\r\n\ @param\ avgPrice\ The\ average\ monthly\ price\ of\ home\ electricity.\r\n\ \r\n\ @return\ The\ annual\ home\ CO2\ emission\ from\ home\ electricity\ use.\r\n
+numComments=4

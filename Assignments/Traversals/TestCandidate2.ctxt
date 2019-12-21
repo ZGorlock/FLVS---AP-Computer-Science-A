@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\ for\ TestCandidate2\r\n
+comment1.params=election
+comment1.target=void\ printVotes(java.util.ArrayList)
+comment2.params=election
+comment2.target=int\ getTotal(java.util.ArrayList)
+comment3.params=election
+comment3.target=void\ printResults(java.util.ArrayList)
+numComments=4

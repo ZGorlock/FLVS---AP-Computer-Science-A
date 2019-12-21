@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=l\ w\ t
+comment0.target=Forrest(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mountain\r\n
+comment1.params=
+comment1.target=int\ getTree()
+comment1.text=\r\n\ Getter\ method\ for\ number\ of\ trees.\r\n\ \r\n\ @return\ number\ of\ trees\r\n
+numComments=2

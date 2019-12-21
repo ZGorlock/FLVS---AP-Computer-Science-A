@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RecursivePalindrome()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RecursivePalindrome\r\n
+comment1.params=word
+comment1.target=boolean\ isPalindrome(java.lang.String)
+comment1.text=\r\n\ Mutator\ method\ to\ calculate\ whether\ the\ word\ is\ a\ palindrome\ or\ not\r\n\ \r\n\ @param\ word\ the\ word\ to\ test\ if\ it\ is\ a\ palindrome\r\n\ \r\n\ @return\ the\ boolean\ if\ a\ word\ is\ a\ palindrome\ or\ not\r\n
+numComments=2

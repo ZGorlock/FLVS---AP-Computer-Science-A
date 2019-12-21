@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FrequencyAnalysis()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FrequencyAnalysis\r\n
+comment1.params=
+comment1.target=int[]\ getFrequency()
+comment1.text=\r\n\ Returns\ the\ frequency\ array\r\n\ \r\n\ @return\ \ frequency\ array\r\n
+comment2.params=
+comment2.target=int\ getTotal()
+comment2.text=\r\n\ Returns\ the\ total\ number\ of\ letters\ in\ the\ plaintext\r\n\ \r\n\ @return\ \ total\r\n
+comment3.params=fileName
+comment3.target=void\ readFile(java.lang.String)
+comment3.text=\r\n\ Reads\ a\ file\ and\ stores\ the\ frequency\ of\ each\ letter\r\n\ \r\n\ @param\ \ filename\ the\ name\ of\ the\ file\ to\ read\r\n
+numComments=4
